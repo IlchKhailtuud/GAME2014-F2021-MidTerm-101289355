@@ -14,7 +14,6 @@ public class BackgroundController : MonoBehaviour
     public float horizontalSpeed;
     public float horizontalBoundary;
 
-    
     void Update()
     {
         _Move();
